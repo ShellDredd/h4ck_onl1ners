@@ -61,7 +61,7 @@ body{background-color: #000000;
 
         .portada-shell-intro{
           position: static;
-          background-image: url(../images/shell-intro.png);
+          background-image: url(images/shell-intro.png);
           background-size: 800px;
           background-repeat: no-repeat;
           background-position-x: center;
@@ -109,7 +109,7 @@ body{background-color: #000000;
       .portada-hack-titulo{
         margin-top: 10em;
         position: static;
-        background-image: url(../imagenes/fondo-c.gif);
+        background-image: url(imagenes/fondo-c.gif);
         background-size: 500px;
         background-repeat: no-repeat;
         background-position-x: center;
@@ -165,7 +165,7 @@ body{background-color: #000000;
 
       .portada-reto-morada{
         position: static;
-        background-image: url(../imagenes/fondo-3.gif);
+        background-image: url(imagenes/fondo-3.gif);
         background-size: 200px;
         background-repeat: no-repeat;
         background-position-x: center;
